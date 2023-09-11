@@ -3,7 +3,8 @@
 ## Installation
 For windows users
 
-1) For speech recognition:\n
+1) For speech recognition:
+
       pip install speechRecognition
 
 2) To text to speech:
