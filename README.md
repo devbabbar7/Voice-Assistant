@@ -4,9 +4,9 @@
 For windows users
 
 1) For speech recognition:
-
+```bash
       pip install speechRecognition
-
+```
 2) To text to speech:
       pip install pyttsx3
 
