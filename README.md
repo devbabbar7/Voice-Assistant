@@ -5,16 +5,24 @@ For windows users
 
 1) For speech recognition:
 ```bash
-      pip install speechRecognition
+pip install speechRecognition
 ```
 2) To text to speech:
-      pip install pyttsx3
+```bash
+pip install pyttsx3
+```
 
-3) For advance control on browser:
-      pip install pywhatkit
+4) For advance control on browser:
+```bash
+pip install pywhatkit
+```
 
-4) To get wikipedia data:
-      pip install wikipedia
+6) To get wikipedia data:
+```bash
+pip install wikipedia
+```
 
-5) To get funny jokes:
-      pip install pyjokes
+8) To get funny jokes:
+```bash
+pip install pyjokes
+```
